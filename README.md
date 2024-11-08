@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntazir-sd&show_icons=true&locale=en" alt="muntazir-sd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muntazir-sd&" alt="muntazir-sd" /></p>
