@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats-cqpzoddny-muntazir-sds-projects.vercel.app/api/top-langs?username=muntazir-sd&show_icons=true&locale=en&layout=compact&count-private=true" alt="muntazir-sd" /></p> 
+<p><img align="left" src="https://github-readme-stats-9k48nh8u8-muntazir-sds-projects.vercel.app/api/top-langs?username=muntazir-sd&show_icons=true&locale=en&layout=compact&count-private=true" alt="muntazir-sd" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-cqpzoddny-muntazir-sds-projects.vercel.app/api?username=muntazir-sd&show_icons=true&locale=en" alt="muntazir-sd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-9k48nh8u8-muntazir-sds-projects.vercel.app/api?username=muntazir-sd&show_icons=true&locale=en" alt="muntazir-sd" /></p>
 
