@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats-seven-kappa-83.vercel.app/api/top-langs?username=muntazir-sd&show_icons=true&locale=en&layout=compact&count-private=true&langs_count=20" alt="muntazir-sd" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-seven-kappa-83.vercel.app/api?username=muntazir-sd&show_icons=true&locale=en" alt="muntazir-sd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-seven-kappa-83.vercel.app/api?username=muntazir-sd&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="muntazir-sd" /></p>
 
