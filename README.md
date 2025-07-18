@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntazir-sd&label=Profile%20views&color=0e75b6&style=flat" alt="muntazir-sd" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy-640fq3q72-muntazir-sds-projects.vercel.app/?username=muntazir-sd&theme=gruvbox&margin-w=5&column=9&no-frame=true" alt="muntazir-sd" /> </p>
+<p align="left"> <img src="https://github-profile-trophy-orcin.vercel.app/?username=muntazir-sd&theme=gruvbox&margin-w=5&column=9&no-frame=true" alt="muntazir-sd" /> </p>
 
 - 🔭 I’m currently working on [Source Vehicle](https://www.sourcevehicle.com/)
 
