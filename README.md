@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/followers/Muntazir-sd?style=social" alt="Followers" />
   <img src="https://img.shields.io/badge/Frontend-Next.js%20|%20React%20|%20MUI-blueviolet?logo=react&logoColor=white" alt="Frontend Skills" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20|%20NestJS%20|%20Express-brightgreen?logo=node.js&logoColor=white" alt="Backend Skills" />
-  <img src="https://img.shields.io/badge/Organizations-dev--cubosquare%20|%20jaktech--coderepo-orange" alt="Organizations" />
+  <img src="https://img.shields.io/badge/Organizations-jaktech--coderepo%20|%20dev--cubosquare-orange" alt="Organizations" />
 </p>
 
 ---
