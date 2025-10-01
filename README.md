@@ -26,7 +26,7 @@ I specialize in building robust, user-friendly web interfaces and scalable backe
 - 🌟 **Featured Projects:**
   - [Source Vehicle](https://www.sourcevehicle.com/) — Vehicle sourcing platform
   - [Connect Souq](https://connect-souq-ui.vercel.app/) — Marketplace for connections
-  - [Jobsify](#) — Job board for modern teams
+  - [Jobsify](https://campus.jobsyfi.ai/) — Job board for modern teams
 - 📍 **Location:** Mumbai, India
 
 ---
