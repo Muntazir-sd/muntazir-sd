@@ -27,6 +27,7 @@ I specialize in building robust, user-friendly web interfaces and scalable backe
   - [Source Vehicle](https://www.sourcevehicle.com/) — Vehicle sourcing platform
   - [Connect Souq](https://connect-souq-ui.vercel.app/) — Marketplace for connections
   - [Jobsify](https://campus.jobsyfi.ai/) — Job board for modern teams
+  - [Katalyst](https://www.bigkatalyst.com/) — UI for Training Management of Kotak Life
 - 📍 **Location:** Mumbai, India
 
 ---
