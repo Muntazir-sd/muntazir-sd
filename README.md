@@ -24,10 +24,10 @@ I specialize in building robust, user-friendly web interfaces and scalable backe
 - 🧑‍💻 **Current Roles:** Senior Frontend Developer @ [jaktech-coderepo](https://github.com/jaktech-coderepo)
 - 🛠️ **Key Skills:** Next.js • React • NestJS • Node.js • Express • CSS • MUI
 - 🌟 **Featured Projects:**
-  - [Source Vehicle](https://www.sourcevehicle.com/) — Vehicle sourcing platform
-  - [Connect Souq](https://connect-souq-ui.vercel.app/) — Marketplace for connections
-  - [Jobsify](https://campus.jobsyfi.ai/) — Job board for modern teams
-  - [Katalyst](https://www.bigkatalyst.com/) — UI for Training Management of Kotak Life
+  - <a href="https://www.sourcevehicle.com/" target="_blank" rel="noopener noreferrer">Source Vehicle</a> — Vehicle sourcing platform
+  - <a href="https://connect-souq-ui.vercel.app/" target="_blank" rel="noopener noreferrer">Connect Souq</a> — Marketplace for connections
+  - <a href="https://campus.jobsyfi.ai/" target="_blank" rel="noopener noreferrer">Jobsify</a> — Job board for modern teams
+  - <a href="https://www.bigkatalyst.com/" target="_blank" rel="noopener noreferrer">Katalyst</a> — UI for Training Management of Kotak Life
 - 📍 **Location:** Mumbai, India
 
 ---
