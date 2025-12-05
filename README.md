@@ -41,16 +41,6 @@ I specialize in building robust, user-friendly web interfaces and scalable backe
 
 ---
 
-## 🏆 Recent Projects
-
-| Repository | Purpose |
-|------------|---------|
-| [ConnectSouq-UI](https://github.com/jaktech-coderepo/ConnectSouq-UI) | Modern marketplace UI |
-| [Katalyst-UI](https://github.com/jaktech-coderepo/Katalyst-UI) | UI for Training Management |
-| [CATRDR-UI](https://github.com/jaktech-coderepo/CATRDR-UI) | Gean Research initiative project UI |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="left"> <img src="https://github-profile-trophy-orcin.vercel.app/?username=muntazir-sd&theme=gruvbox&margin-w=5&column=9&no-frame=true" alt="muntazir-sd" /> </p>
@@ -63,9 +53,9 @@ I specialize in building robust, user-friendly web interfaces and scalable backe
 ## 🔗 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/Muntazir-sd"><img src="https://img.shields.io/badge/GitHub-Muntazir--sd-181717?logo=github" /></a>
-  <a href="https://twitter.com/MuntazirAs9"><img src="https://img.shields.io/badge/Twitter-@MuntazirAs9-1DA1F2?logo=twitter" /></a>
-  <a href="mailto:sayedmuntazir007@gmail.com"><img src="https://img.shields.io/badge/Email-sayedmuntazir007@gmail.com-D14836?logo=gmail" /></a>
+  <a href="https://github.com/Muntazir-sd"><img src="https://img.shields.io/badge/GitHub-Muntazir--sd-181717?logo=github"  /></a>
+  <a href="https://twitter.com/MuntazirAs9"><img src="https://img.shields.io/badge/Twitter-@MuntazirAs9-1DA1F2?logo=twitter"  /></a>
+  <a href="mailto:sayedmuntazir007@gmail.com"><img src="https://img.shields.io/badge/Email-sayedmuntazir007@gmail.com-D14836?logo=gmail"  /></a>
 </div>
 
 ---
